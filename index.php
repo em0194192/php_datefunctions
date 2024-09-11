@@ -23,7 +23,7 @@
     } else {
         todaysDate();
     }
-    
+    //change
     //calculateFutureDate();  //can call because it was included
     include "form.php";
 ?>
